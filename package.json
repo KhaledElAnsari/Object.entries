@@ -1,0 +1,14 @@
+{
+  "name": "object.entries",
+  "version": "0.1.0",
+  "description": "polyfill for es8 Object.entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es8"
+  ],
+  "author": "Khaled Al-Ansari <khaledelansari@gmail.com>",
+  "license": "MIT"
+}
