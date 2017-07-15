@@ -1,5 +1,5 @@
 {
-  "name": "object.entries",
+  "name": "object_entries",
   "version": "0.1.0",
   "description": "polyfill for es8 Object.entries",
   "main": "index.js",

@@ -9,7 +9,7 @@ Because of the already writtern polyfills are too complicated and I wanted somet
 ## Usage
 You can install it with npm
 ```
-npm install --save object.entries
+npm install --save object_entries
 ```
 
 Or just [download it manually](https://raw.githubusercontent.com/KhaledElAnsari/Object.entries/master/index.js) and add it to your project
