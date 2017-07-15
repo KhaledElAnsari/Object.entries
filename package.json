@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "es8"
+    "es8",
+    "javascript",
+    "prototype",
+    "polyfill",
+    "utility"
   ],
   "author": "Khaled Al-Ansari <khaledelansari@gmail.com>",
   "license": "MIT"
